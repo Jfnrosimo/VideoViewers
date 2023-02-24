@@ -10,11 +10,11 @@ none
 false
 TRACE;DEBUG;NET;NET6_0;NETCOREAPP
 C:\Users\Admin\source\repos\VideoViewersWPF\VideoViewersWPF\App.xaml
-11407045341
+4460997251
 
-3-1233169557
+6-1928134735
 194101785492
-MainWindow.xaml;
+Components\ViewersDetails.xaml;Components\ViewersListing.xaml;MainWindow.xaml;Views\ViewersView.xaml;
 
 False
 

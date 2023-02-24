@@ -19,3 +19,11 @@ C:\Users\Admin\source\repos\VideoViewersWPF\VideoViewersWPF\obj\Debug\net6.0-win
 C:\Users\Admin\source\repos\VideoViewersWPF\VideoViewersWPF\obj\Debug\net6.0-windows\VideoViewersWPF.pdb
 C:\Users\Admin\source\repos\VideoViewersWPF\VideoViewersWPF\obj\Debug\net6.0-windows\VideoViewersWPF.genruntimeconfig.cache
 C:\Users\Admin\source\repos\VideoViewersWPF\VideoViewersWPF\obj\Debug\net6.0-windows\ref\VideoViewersWPF.dll
+C:\Users\Admin\source\repos\VideoViewersWPF\VideoViewersWPF\obj\Debug\net6.0-windows\Components\ViewersDetails.g.cs
+C:\Users\Admin\source\repos\VideoViewersWPF\VideoViewersWPF\obj\Debug\net6.0-windows\Components\ViewersListing.g.cs
+C:\Users\Admin\source\repos\VideoViewersWPF\VideoViewersWPF\obj\Debug\net6.0-windows\Views\ViewersView.g.cs
+C:\Users\Admin\source\repos\VideoViewersWPF\VideoViewersWPF\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\Admin\source\repos\VideoViewersWPF\VideoViewersWPF\obj\Debug\net6.0-windows\Components\ViewersDetails.baml
+C:\Users\Admin\source\repos\VideoViewersWPF\VideoViewersWPF\obj\Debug\net6.0-windows\Components\ViewersListing.baml
+C:\Users\Admin\source\repos\VideoViewersWPF\VideoViewersWPF\obj\Debug\net6.0-windows\Views\ViewersView.baml
+C:\Users\Admin\source\repos\VideoViewersWPF\VideoViewersWPF\obj\Debug\net6.0-windows\App.baml
