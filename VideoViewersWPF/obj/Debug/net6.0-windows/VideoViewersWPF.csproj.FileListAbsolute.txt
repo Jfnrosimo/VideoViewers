@@ -26,3 +26,4 @@ C:\Users\Admin\source\repos\VideoViewersWPF\VideoViewersWPF\obj\Debug\net6.0-win
 C:\Users\Admin\source\repos\VideoViewersWPF\VideoViewersWPF\obj\Debug\net6.0-windows\Components\ViewersDetails.baml
 C:\Users\Admin\source\repos\VideoViewersWPF\VideoViewersWPF\obj\Debug\net6.0-windows\Components\ViewersListing.baml
 C:\Users\Admin\source\repos\VideoViewersWPF\VideoViewersWPF\obj\Debug\net6.0-windows\Views\ViewersView.baml
+C:\Users\Admin\source\repos\VideoViewersWPF\VideoViewersWPF\obj\Debug\net6.0-windows\App.baml

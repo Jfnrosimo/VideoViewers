@@ -21,11 +21,10 @@
 
             <TextBlock Grid.Column="0" FontSize="32" Text="Video Viewers" />
 
-            <Button Grid.Column="1" Content="Add" VerticalAlignment="Center"
-                    Padding="10 5" FontSize="18"/>
+            <Button Grid.Column="1" Content="Add" FontSize="18"/>
         </Grid>
 
-        <Grid Grid.Row="1">
+        <Grid Grid.Row="1" Margin="0,15,0,0">
             <Grid.ColumnDefinitions>
                 <ColumnDefinition Width="*" />
                 <ColumnDefinition Width="2*" />
