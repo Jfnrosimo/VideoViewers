@@ -5,6 +5,7 @@ using System.Data;
 using System.Linq;
 using System.Threading.Tasks;
 using System.Windows;
+using VideoViewersWPF.ViewModels;
 
 namespace VideoViewersWPF
 {
@@ -15,7 +16,10 @@ namespace VideoViewersWPF
     {
         protected override void OnStartup(StartupEventArgs e)
         {
-            MainWindow = new MainWindow();
+            MainWindow = new MainWindow()
+            {
+                DataContext = new ViewersViewModel()
+            };
             MainWindow.Show();
 
             base.OnStartup(e);

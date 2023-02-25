@@ -6,8 +6,7 @@ using System.Threading.Tasks;
 
 namespace VideoViewersWPF.ViewModels
 {
-    internal class ViewersListingViewModel : ViewModelBase
+    internal class ViewersDetailsViewModel : ViewModelBase
     {
-
     }
 }
