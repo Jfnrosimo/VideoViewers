@@ -12,5 +12,10 @@ namespace VideoViewersWPF.ViewModels
         public string Username { get; }
         public ICommand EditCommand { get; }
         public ICommand DeleteCommand { get; }
+
+        public ViewersListingItemViewModel(string username)
+        {
+            Username = username;
+        }
     }
 }
